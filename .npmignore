@@ -1,0 +1,10 @@
+/src
+*.tgz
+*.ts
+!*.d.ts
+
+.editorconfig
+.prettierrc.json
+tsconfig.json
+merge-schema.js
+yarn.lock

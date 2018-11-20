@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "webpackConfig": {
+      "type": "string",
+      "description": "The path to the Webpack configuration file."
+    }
+  }
+}

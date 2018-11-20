@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/coverage": true
+  },
+  "search.exclude": {
+    "yarn.lock": true,
+    "**/node_modules": true
+  },
+  "npm.enableScriptExplorer": true,
+  "editor.formatOnSave": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "tslint.jsEnable": true,
+  "prettier.disableLanguages": ["vue"]
+}
