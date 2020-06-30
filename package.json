@@ -19,6 +19,6 @@
     "@types/node": "10.12.2",
     "@types/webpack": "4.4.17",
     "lodash": "^4.17.11",
-    "typescript": "3.1.6"
+    "typescript": "3.9.5"
   }
 }
