@@ -18,7 +18,7 @@
     "@types/lodash": "4.14.117",
     "@types/node": "10.12.2",
     "@types/webpack": "4.41.18",
-    "lodash": "^4.17.11",
+    "lodash": "4.17.15",
     "typescript": "3.9.5"
   }
 }
