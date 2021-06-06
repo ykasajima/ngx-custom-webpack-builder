@@ -14,7 +14,7 @@
     "@angular-devkit/build-angular": ">=0.11.0-beta.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.11.0-beta.0",
+    "@angular-devkit/build-angular": "0.1102.14",
     "@types/lodash": "4.14.117",
     "@types/node": "10.12.2",
     "@types/webpack": "4.41.18",
